@@ -8,7 +8,7 @@
 	  "สล็อต บนโทรศัพท์มือถือ",
 	  "บาคาร่า"
 	],
-	"repository": "https://github.com/comsc107/10-2022-1.git",
+	"repository": "https://github.com/comsc107/10-2022-1",
 	"license": "MIT",
 	"engines": {
 	  "atom": ">=1.0.0 <2.0.0"
